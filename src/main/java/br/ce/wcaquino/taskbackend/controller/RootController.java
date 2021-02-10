@@ -11,6 +11,6 @@ public class RootController {
 	
 	@GetMapping
 	public String hello() {
-		return "DEUS É TUDO PRA MIM";
+		return "DEUS É TUDO PRA MIM - 2021";
 	}
 }
