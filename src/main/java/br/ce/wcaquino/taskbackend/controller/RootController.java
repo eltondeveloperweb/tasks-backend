@@ -11,6 +11,6 @@ public class RootController {
 	
 	@GetMapping
 	public String hello() {
-		return "THANKS VERY MUCH MY GOD ";
+		return "GOOD AFTERNOON";
 	}
 }
